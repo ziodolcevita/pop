@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pop Hearing!",
+    "description": "",
+    "home_page_url": "https://pophearing.com",
+    "feed_url": "https://pophearing.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zio"
+    },
+    "items": [
+        {
+            "id": "https://pophearing.com/brand-new.html",
+            "url": "https://pophearing.com/brand-new.html",
+            "title": "Brand New",
+            "summary": "Thanks for everything dot net.",
+            "content_html": "<p>Thanks for everything dot net.</p>",
+            "image": "https://pophearing.com/media/posts/1/fx76v1b654551.png",
+            "author": {
+                "name": "Zio"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-14T00:06:55+01:00",
+            "date_modified": "2020-10-14T00:06:55+01:00"
+        }
+    ]
+}

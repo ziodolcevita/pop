@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pophearing.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pophearing.com/</loc>
+</url>
+<url>
+<loc>https://pophearing.com/brand-new.html</loc>
+<lastmod>2020-10-14T00:06:55+01:00</lastmod>
+<image:image>
+<image:loc>https://pophearing.com/media\posts\1/fx76v1b654551.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

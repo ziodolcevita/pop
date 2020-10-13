@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Pop Hearing!</title>
+    <link href="https://pophearing.com/feed.xml" rel="self" />
+    <link href="https://pophearing.com" />
+    <updated>2020-10-14T00:06:55+01:00</updated>
+    <author>
+        <name>Zio</name>
+    </author>
+    <id>https://pophearing.com</id>
+
+    <entry>
+        <title>Brand New</title>
+        <author>
+            <name>Zio</name>
+        </author>
+        <link href="https://pophearing.com/brand-new.html"/>
+        <id>https://pophearing.com/brand-new.html</id>
+
+        <updated>2020-10-14T00:06:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pophearing.com/media/posts/1/fx76v1b654551.png" alt="" />
+                    Thanks for everything dot net.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pophearing.com/media/posts/1/fx76v1b654551.png" alt="" />
+                <p>Thanks for everything dot net.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
